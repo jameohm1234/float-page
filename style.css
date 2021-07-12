@@ -1,0 +1,30 @@
+body{
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: #dddddd;
+}
+.container{
+    max-width: 1140px;
+    background-color: #ffffff;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px ;
+}
+h1{
+    font-size: 30px;
+    margin: 0;
+}
+nav{
+    float:left;
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    padding:30px 15px;
+    margin-bottom: 20px;
+}
+header{
+    float:left;
+    eidth
+
+
+}
